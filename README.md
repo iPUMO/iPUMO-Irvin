@@ -1,4 +1,4 @@
-# Hi there 👋, I'm a Passionate Developer
+# Hi there 👋, I am Irvin Mondal 4th Year Computer Engineering student
 
 <img src="https://komarev.com/ghpvc/?username=iPUMO&style=flat-square&color=blue" alt="Profile Views" />
 
